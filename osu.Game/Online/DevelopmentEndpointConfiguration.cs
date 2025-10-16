@@ -7,9 +7,9 @@ namespace osu.Game.Online
     {
         public DevelopmentEndpointConfiguration()
         {
-            WebsiteUrl = APIUrl = @"https://dev.ppy.sh";
-            APIClientSecret = @"3LP2mhUrV89xxzD1YKNndXHEhWWCRLPNKioZ9ymT";
-            APIClientID = "5";
+            WebsiteUrl = APIUrl = @"https://osu.clxxped.lol";
+            APIClientSecret = @"lm2COgFAHiLPIcMtjxUeUbRItRQd79TkwcEsMNHx";
+            APIClientID = "1";
             SpectatorUrl = $@"{APIUrl}/signalr/spectator";
             MultiplayerUrl = $@"{APIUrl}/signalr/multiplayer";
             MetadataUrl = $@"{APIUrl}/signalr/metadata";
