@@ -10,7 +10,7 @@ namespace osu.Game.Online
             WebsiteUrl = APIUrl = @"https://osu.clxxped.lol";
             APIClientSecret = @"lm2COgFAHiLPIcMtjxUeUbRItRQd79TkwcEsMNHx";
             APIClientID = "1";
-            SpectatorUrl = $@"{APIUrl}/signalr/spectator";
+            SpectatorUrl = $@"https://osu-spectator.clxxped.lol/signalr/spectator";
             MultiplayerUrl = $@"{APIUrl}/signalr/multiplayer";
             MetadataUrl = $@"{APIUrl}/signalr/metadata";
             BeatmapSubmissionServiceUrl = $@"{APIUrl}/beatmap-submission";
