@@ -46,8 +46,8 @@
     <IsPackable>false</IsPackable>
     <Authors>ppy Pty Ltd</Authors>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <PackageProjectUrl>https://github.com/ppy/osu</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/ppy/osu</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/clxxped/osu-clxxped</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/clxxped/osu-clxxped</RepositoryUrl>
     <PackageReleaseNotes>Automated release.</PackageReleaseNotes>
     <Company>ppy Pty Ltd</Company>
     <Copyright>Copyright (c) 2025 ppy Pty Ltd</Copyright>
